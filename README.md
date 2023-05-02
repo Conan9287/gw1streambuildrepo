@@ -1,5 +1,5 @@
 Guild Wars 1 Playthrough stream builds
-
+Bear in mind - This is just a storage, these will be getting placement elsewhere in the repo.
 This is storage of template codes via GW1 playthrough streams!
 
 
